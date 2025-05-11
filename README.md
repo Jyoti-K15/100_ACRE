@@ -74,7 +74,7 @@ To quickly test the search functionality:
 ### Installation Steps
 
 1. Clone the repository
-- git clone https://github.com/Jyoti-K15/100.git
+- git clone https://github.com/Jyoti-K15/100_ACRE.git
 
 2. Navigate to the project directory
 - cd hundred-acre
