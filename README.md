@@ -1,7 +1,7 @@
 # Deployed Link
 https://100-acre-z5d7.vercel.app
 
-![100ACRE](https://github.com/Jyoti-K15/100_ACRE/assets/97173401/07a0f9b6-1c7c-432a-95e1-91ea502133a0)
+
 
 
 # 100ACRE
